@@ -1,0 +1,16 @@
+# Hardhat folders
+artifacts/
+cache/
+
+# Node dependencies
+node_modules/
+
+# Environment files (keeps your private key secure!)
+.env
+
+# Hardhat coverage & testing reports
+coverage/
+coverage.json
+
+# Hardhat Ignition deployments
+ignition/deployments/

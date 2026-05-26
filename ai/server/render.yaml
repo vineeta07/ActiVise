@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: civiclens-ai
+    env: docker
+    region: frankfurt
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
