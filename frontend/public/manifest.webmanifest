@@ -1,0 +1,22 @@
+{
+  "name": "ActiVise",
+  "short_name": "ActiVise",
+  "description": "AI-powered environmental campaign and civic engagement platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#10B981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/image.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/image.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
